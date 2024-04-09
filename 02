@@ -1,0 +1,32 @@
+[
+  {
+    "id": "8547",
+    "descrição": "Laranja",
+    "preço": 1.99,
+    "quantidade": 1
+  },
+  {
+    "id": "8c5f",
+    "descrição": "Abacaxi",
+    "preço": 2.99,
+    "quantidade": 2
+  },
+  {
+    "id": "9ebf",
+    "descrição": "Banana",
+    "preço": 5.99,
+    "quantidade": 10
+  },
+  {
+    "id": "dd6d",
+    "descrição": "Tomate",
+    "preço": 2.5,
+    "quantidade": 5
+  },
+  {
+    "id": "e643",
+    "descrição": "Limão",
+    "preço": 0.99,
+    "quantidade": 1
+  }
+]

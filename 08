@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "Luiz Cardoso",
+    "endereço": "São Paulo",
+    "estado civil": "Solteiro",
+    "renda": 2500,
+    "id": "aab2"
+  },
+  {
+    "id": "3191",
+    "nome": "Luiza",
+    "endereço": "São Paulo",
+    "estado civil": "Casado",
+    "renda": 1500
+  }
+]

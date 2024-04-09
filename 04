@@ -1,0 +1,37 @@
+[
+  {
+    "id": "a1be",
+    "nome": "Luiz Cardoso",
+    "endereço": "São Paulo",
+    "estado civil": "Casado",
+    "renda": 2500
+  },
+  {
+    "id": "9795",
+    "nome": "Fernando",
+    "endereço": "São Paulo",
+    "estado civil": "Casado",
+    "renda": 3500
+  },
+  {
+    "id": "fd0c",
+    "nome": "Luiza",
+    "endereço": "Paraná",
+    "estado civil": "Casado",
+    "renda": 2100
+  },
+  {
+    "id": "1aff",
+    "nome": "Fernanda",
+    "endereço": "Bahia",
+    "estado civil": "Casado",
+    "renda": 1900
+  },
+  {
+    "id": "6f61",
+    "nome": "Elon Musk",
+    "endereço": "Rio de Janeiro",
+    "estado civil": "Casado",
+    "renda": 50000
+  }
+]

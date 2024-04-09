@@ -1,0 +1,17 @@
+[
+  {
+    "produto": "Computador",
+    "preço": 3999,
+    "id": "2dc6"
+  },
+  {
+    "produto": "Notebook",
+    "preço": 4999,
+    "id": "2f35"
+  },
+  {
+    "produto": "Ihpone",
+    "preço": 8500,
+    "id": "60f8"
+  }
+]
